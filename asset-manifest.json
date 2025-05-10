@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Ecommerce/static/js/main.8979ac82.js",
+    "static/media/menDesktop.png": "/Ecommerce/static/media/menDesktop.668311d41b9781378b31.png",
+    "static/media/collectionDesktop.png": "/Ecommerce/static/media/collectionDesktop.0482eebab4436b3f3dc3.png",
+    "static/media/womenDesktop.png": "/Ecommerce/static/media/womenDesktop.70cfb363684ecd56d1ea.png",
+    "static/media/kicksDesktop.png": "/Ecommerce/static/media/kicksDesktop.2c97aeff82536e3e3682.png",
+    "static/media/store.jpg": "/Ecommerce/static/media/store.811f0007473330f3450f.jpg",
+    "static/media/one.jpg": "/Ecommerce/static/media/one.36a220162d6f82eef616.jpg",
+    "static/media/three.jpg": "/Ecommerce/static/media/three.8d2f5b9cc250c1e410dd.jpg",
+    "static/media/four.jpg": "/Ecommerce/static/media/four.1b99d32adc436d2774b0.jpg",
+    "static/media/two.jpg": "/Ecommerce/static/media/two.5d096d20af4e96c4d70b.jpg",
+    "static/media/collectionMobile.jpg": "/Ecommerce/static/media/collectionMobile.e3d6f53c92391b49f6b5.jpg",
+    "static/media/mobile.jpg": "/Ecommerce/static/media/mobile.7fa55691d290e03c976e.jpg",
+    "static/media/kicksMobile.jpg": "/Ecommerce/static/media/kicksMobile.619018a550bee605785a.jpg",
+    "static/media/womenMobile.png": "/Ecommerce/static/media/womenMobile.96d038031195849ee584.png",
+    "index.html": "/Ecommerce/index.html",
+    "main.8979ac82.js.map": "/Ecommerce/static/js/main.8979ac82.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8979ac82.js"
+  ]
+}
